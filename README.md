@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Unity Scheduler
+
+This is a [Next.js](https://nextjs.org/) project with the intention to use [tailwind css](https://tailwindcss.com/) to make a scheduling program that 
+automatically reshuffles my tasks when a task hasn't been completed. 
+
 
 ## Getting Started
 
